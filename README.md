@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyu-tar0-thornton
-- 👀 I’m interested in JavaScript, Python and C++.
+- 👀 I’m interested in JavaScript, Python and C++, sometimes PHP.
 - 🌱 I’m currently learning about frontend development.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me gyutar0@proton.me
